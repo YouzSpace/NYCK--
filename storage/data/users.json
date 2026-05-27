@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "id": "user_admin",
+            "username": "admin",
+            "password": "$2y$12$HlwTSZL.z7touEOhHQBX9uSCQ2R4zwgV9.wwAntqNSvQzbebeduui",
+            "role": "admin",
+            "status": "active",
+            "created_at": "2026-05-25T23:59:11+08:00",
+            "updated_at": "2026-05-25T23:59:11+08:00"
+        }
+    ]
+}

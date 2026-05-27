@@ -1,0 +1,6 @@
+parameters:
+    paths:
+        - app
+        - tests
+        - bootstrap.php
+    level: 5
